@@ -1,6 +1,5 @@
 # Tic-Tac-Toe Agent Arena
 
-AI/ML Laboratory — Assignment X_02
 
 ## Project
 A Python implementation of a Tic-Tac-Toe engine, two Minimax agents, Alpha-Beta pruning, heuristic scoring, configurable lookahead and automated experiments.
